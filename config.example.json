@@ -1,0 +1,12 @@
+{
+  "_comment": "Copy this to config.json and fill in your values. config.json is gitignored.",
+
+  "sheet_id": "1V2GOhpJmEy7WKTQAGpAD3fXVmBJadDg4FcsJeHusLmo",
+  "sheet_name": "Form Responses 1",
+
+  "google_service_account_json": "/path/to/your/service-account-key.json",
+
+  "gmail_delegated_email": "your-email@salesforce.com",
+
+  "slack_bot_token": "xoxb-your-slack-bot-token"
+}
